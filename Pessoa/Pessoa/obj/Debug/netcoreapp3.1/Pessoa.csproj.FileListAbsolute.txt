@@ -1,0 +1,4 @@
+C:\Users\bodyb\source\repos\Pessoa\Pessoa\obj\Debug\netcoreapp3.1\Pessoa.csprojAssemblyReference.cache
+C:\Users\bodyb\source\repos\Pessoa\Pessoa\obj\Debug\netcoreapp3.1\Pessoa.AssemblyInfoInputs.cache
+C:\Users\bodyb\source\repos\Pessoa\Pessoa\obj\Debug\netcoreapp3.1\Pessoa.AssemblyInfo.cs
+C:\Users\bodyb\source\repos\Pessoa\Pessoa\obj\Debug\netcoreapp3.1\Pessoa.csproj.CoreCompileInputs.cache
