@@ -1,0 +1,13 @@
+C:\Users\bodyb\source\repos\Notas\Notas\obj\Debug\netcoreapp3.1\Notas.csprojAssemblyReference.cache
+C:\Users\bodyb\source\repos\Notas\Notas\obj\Debug\netcoreapp3.1\Notas.AssemblyInfoInputs.cache
+C:\Users\bodyb\source\repos\Notas\Notas\obj\Debug\netcoreapp3.1\Notas.AssemblyInfo.cs
+C:\Users\bodyb\source\repos\Notas\Notas\obj\Debug\netcoreapp3.1\Notas.csproj.CoreCompileInputs.cache
+C:\Users\bodyb\source\repos\Notas\Notas\bin\Debug\netcoreapp3.1\Notas.exe
+C:\Users\bodyb\source\repos\Notas\Notas\bin\Debug\netcoreapp3.1\Notas.deps.json
+C:\Users\bodyb\source\repos\Notas\Notas\bin\Debug\netcoreapp3.1\Notas.runtimeconfig.json
+C:\Users\bodyb\source\repos\Notas\Notas\bin\Debug\netcoreapp3.1\Notas.runtimeconfig.dev.json
+C:\Users\bodyb\source\repos\Notas\Notas\bin\Debug\netcoreapp3.1\Notas.dll
+C:\Users\bodyb\source\repos\Notas\Notas\bin\Debug\netcoreapp3.1\Notas.pdb
+C:\Users\bodyb\source\repos\Notas\Notas\obj\Debug\netcoreapp3.1\Notas.dll
+C:\Users\bodyb\source\repos\Notas\Notas\obj\Debug\netcoreapp3.1\Notas.pdb
+C:\Users\bodyb\source\repos\Notas\Notas\obj\Debug\netcoreapp3.1\Notas.genruntimeconfig.cache
